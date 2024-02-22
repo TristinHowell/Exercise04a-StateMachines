@@ -1,4 +1,9 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+Context and date
+
+Description
 
 ## Implementation
 Which features you included.
@@ -10,6 +15,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Enhancing movement
 
 ## Created by
-Nathan Mishler
+Tristin Howell
